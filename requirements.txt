@@ -1,0 +1,11 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+beautifulsoup4
+requests
+matplotlib
+optuna
+statsmodels
+tqdm
